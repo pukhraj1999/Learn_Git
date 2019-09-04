@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: Pukhraj Singh
+- Roll No.:2019010053343
+- Interests: Web development,Gaming devepment,android development
